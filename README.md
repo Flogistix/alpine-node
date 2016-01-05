@@ -37,8 +37,7 @@ Example
     $ docker run mhart/alpine-node:3 iojs --version
     v3.3.1
 
-    $ docker run mhart/alpine-node:base-0.10 node --version
-    v0.10.41
+    
 
 Example Dockerfile for your own Node.js project
 -----------------------------------------------
